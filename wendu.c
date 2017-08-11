@@ -4,11 +4,11 @@
 
 int main(void)
 {
-    float fa,celsius;
+    float fass,celsius;
     printf("输入华氏温度为：");
-    scanf("%f",&fa);
+    scanf("%f",&fass);
 
-    celsius = (fa-F)*SC;
+    celsius = (fas-F)*SC;
     printf("输出摄氏温度为：%.1f\n",celsius);
     return 0;
 }
